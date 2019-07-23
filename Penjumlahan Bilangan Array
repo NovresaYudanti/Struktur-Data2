@@ -1,0 +1,11 @@
+x = [29, 11, 11]
+y = [14, 10, 99]
+
+xTotal = sum(x)
+yTotal = sum(y)
+jumlah = xTotal + yTotal
+print ("Penjumlahan Nilai Kedua Array")
+print (jumlah)
+
+print("Menggabungka Kedua Nilai Array")
+print (x+y)
